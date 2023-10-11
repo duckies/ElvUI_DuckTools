@@ -1,0 +1,13 @@
+## Interface: 100107
+## Title: |cff1784d1ElvUI|r |cff00ff96Duck|r|cffffffffTools|r
+## Version: 0.0.1
+## Author: Rubbewduck
+## RequiredDeps: ElvUI
+## IconTexture: Interface\Icons\inv_duckbaby_mallard
+
+Initialize.lua
+Media\Load_Media.xml
+Settings\Load_Settings.xml
+Core\Load_Core.xml
+Modules\Chat\Load_Chat.xml
+Options\Load_Options.xml
