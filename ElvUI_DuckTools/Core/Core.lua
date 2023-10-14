@@ -1,7 +1,6 @@
 local D, F, E = unpack(ElvUI_DuckTools)
 
 local tinsert = table.insert
-local unpack = unpack
 
 D.RegisteredModules = {}
 
@@ -24,7 +23,7 @@ function D:InitializeModules()
     local module = self:GetModule(moduleName)
 
     if module.Initialize then
-      print(pcall(module.Initialize, module))
+      pcall(module.Initialize, module)
     end
   end
 end

@@ -3,4 +3,5 @@
   <Include file="Core.lua" />
   <!-- Submodule -->
   <Include file="General.lua" />
+  <Include file="Announcement.lua" />
 </Ui>

@@ -19398,6 +19398,8 @@
     "ZOOM_OUT_BUTTON_TEXT",
     "_RECORDING_WARNING_CORRUPTED",
     "GMChatFrame_IsGM",
-    "GetPlayerLink"
+    "GetPlayerLink",
+    "LE_PARTY_CATEGORY_HOME",
+    "C_MythicPlus"
   ]
 }

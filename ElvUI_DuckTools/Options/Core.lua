@@ -5,7 +5,13 @@ D.options = {
     order = 101,
     name = "General",
     args = {}
-  }
+  },
+  announcement = {
+    order = 102,
+    name = "Announcement",
+    desc = "Chatterbox behaviors",
+    args = {}
+  },
 }
 
 function D:InsertOptions()

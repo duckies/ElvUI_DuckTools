@@ -9,5 +9,5 @@ Initialize.lua
 Media\Load_Media.xml
 Settings\Load_Settings.xml
 Core\Load_Core.xml
-Modules\Chat\Load_Chat.xml
+Modules\Load_Modules.xml
 Options\Load_Options.xml
